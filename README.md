@@ -1,7 +1,7 @@
-# programming-challenges
+# Programming-Challenges
 
 
-      Desafios de programação e competições para aperfeiçoar o conhecimento.
+      #Listas de sites para desafios de programação e competições para aperfeiçoar o conhecimento.
 
 
 
